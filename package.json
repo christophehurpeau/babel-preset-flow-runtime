@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-flow-runtime",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Babel preset for flow-runtime",
   "keywords": [
     "babel-preset",
