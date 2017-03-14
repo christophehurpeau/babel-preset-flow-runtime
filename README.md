@@ -1,5 +1,7 @@
 # babel-preset-flow-runtime [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/christophehurpeau/babel-preset-flow-runtime.svg)](https://greenkeeper.io/)
+
 Babel preset for flow-runtime
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
